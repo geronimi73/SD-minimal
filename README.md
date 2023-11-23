@@ -1,7 +1,5 @@
 # Minimal examples of T2I-Adapters for Stable Diffusion XL (SDXL)
 
-to get you started
-
 ## Sketch-guided
 
 - Notebook: t2i-sdxl-sketch.ipynb
