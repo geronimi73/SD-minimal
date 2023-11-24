@@ -6,6 +6,8 @@ img2sketch2img
 
 ![gallery_img2sketch2img](assets/gallery_img2sketch2img.png)
 
+![gallery_img2sketch2img-2](assets/gallery_img2sketch2img-2.png)
+
 skribble2img
 
 ![sketch-guided-1](assets/sketch-guided-1.png)
