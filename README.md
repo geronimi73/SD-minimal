@@ -2,7 +2,7 @@
 
 ## Gallery
 
-img2sketch2img
+### img2sketch2img
 
 ![gallery_img2sketch2img](assets/gallery_img2sketch2img.png)
 
@@ -14,7 +14,7 @@ skribble2img
 
 ![sketch-guided-2](assets/sketch-guided-2.png)
 
-img2canny2img
+### img2canny2img
 
 ![canny-guided-1](assets/canny-guided-1.png)
 
