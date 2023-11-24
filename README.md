@@ -1,4 +1,4 @@
-# Minimal examples of T2I-Adapters for Stable Diffusion XL (SDXL)
+# Minimal working examples of T2I-Adapters for Stable Diffusion XL (SDXL)
 
 ## Gallery
 
