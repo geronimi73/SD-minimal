@@ -1,20 +1,22 @@
 # Minimal examples of T2I-Adapters for Stable Diffusion XL (SDXL)
 
-## Sketch-guided
+## Gallery
 
-- Notebook: t2i-sdxl-sketch.ipynb
-- Streamlit: st_t2i-sdxl-sketch.py
+img2sketch2img
+
+![gallery_img2sketch2img](assets/gallery_img2sketch2img.png)
+
+skribble2img
 
 ![sketch-guided-1](assets/sketch-guided-1.png)
 
 ![sketch-guided-2](assets/sketch-guided-2.png)
 
-## Canny-guided
-
-- Notebook: t2i-sdxl-canny.ipynb
-- Streamlit: st_t2i-sdxl-canny.py
+img2canny2img
 
 ![canny-guided-1](assets/canny-guided-1.png)
 
+## Code
 
+- notebooks and minimalistic streamlit apps
 
